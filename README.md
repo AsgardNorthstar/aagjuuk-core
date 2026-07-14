@@ -1,8 +1,8 @@
 # Aagjuuk Labs: Real-Time Multi-Material Edge Physics Solver
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/asgardnorthstar/aagjuuk-core/main/streamlit_app.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aagjuuk.streamlit.app/)
 
-**Live Demo:** [Click here to launch the interactive 3D physics dashboard](https:aagjuuk.streamlit.app
+**Live Demo:** [https://aagjuuk.streamlit.app/](https://aagjuuk.streamlit.app/)
 
 ---
 
