@@ -2,8 +2,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/asgardnorthstar/aagjuuk-core/main/streamlit_app.py)
 
-**Live Demo:** [Click here to launch the interactive 3D physics dashboard](https://share.streamlit.io/asgardnorthstar/aagjuuk-core/main/streamlit_app.py) 
-*(Note: If you configured a custom URL like aagjuuk.streamlit.app, you can replace the links above with your custom domain.)*
+**Live Demo:** [Click here to launch the interactive 3D physics dashboard](https:aagjuuk.streamlit.app
 
 ---
 
