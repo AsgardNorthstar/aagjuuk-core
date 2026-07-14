@@ -77,7 +77,6 @@ The package requires a Python environment ($\ge 3.9$).
 
 ### 4.2 Installation
 To clone and install dependencies in an isolated virtual environment:
-## 4. Setup and Local Execution
 
 ### 4.3 Running the Interactive Diagnostic Console
 Execute the visualization and hardware telemetry interface:
